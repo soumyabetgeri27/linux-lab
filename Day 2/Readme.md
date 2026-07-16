@@ -1,5 +1,7 @@
 ## Day2- File Operations
 
+## Commands Practiced
+
 mkdir
 
 touch
